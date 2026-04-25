@@ -9,8 +9,8 @@
     {
         "Participant": "SatyamShelke2005 (Exp-v2)",
         "Architecture": "Residual-Skip-MLP",
-        "Accuracy": "97.4%",
-        "F1-Score": "97.4",
+        "Accuracy": "94.7%",
+        "F1-Score": "94.8",
         "Timestamp": "2026-04-25"
     }
 ]
