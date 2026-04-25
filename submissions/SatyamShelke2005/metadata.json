@@ -1,9 +1,9 @@
 {
-    "name": "Satyam Anilrao Shelke",
-    "PRN": "1132231165",
-    "timestamp": "2026-04-25 07:43:21",
-    "model_type": "PyTorch RobustMLP",
+    "name": "SatyamShelke2005 (Exp-v2)",
+    "PRN": "FORK_CONTRIBUTOR",
+    "timestamp": "2026-04-25 08:28:25",
+    "model_type": "Advanced Residual MLP",
     "status": "Success",
-    "accuracy": "100.00%",
-    "submission_type": "Automated_CI_CD"
+    "accuracy": "97.37%",
+    "submission_type": "Community_Contribution"
 }
