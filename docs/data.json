@@ -5,12 +5,5 @@
         "Accuracy": "98.5%",
         "F1-Score": "97.2",
         "Timestamp": "2026-04-14"
-    },
-    {
-        "Participant": "SatyamShelke2005 (Exp-v2)",
-        "Architecture": "Residual-Skip-MLP",
-        "Accuracy": "94.7%",
-        "F1-Score": "94.8",
-        "Timestamp": "2026-04-25"
     }
 ]
